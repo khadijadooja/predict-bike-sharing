@@ -28,9 +28,9 @@ I think if i have more time with the dataset, i would spend time to try more hyp
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 	model	num_bag_folds	num_trials	max_stack_level	scorey
-	initial	8	1	3	1.81114
+	initial 	8	1	3	1.81114
 	add_features	8	1	3	1.78080
-	hpo 	8	5	3	1.80389
+	hpo 		8	5	3	1.80389
 	features_hpo	8	8	3	0.62597
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
@@ -45,7 +45,7 @@ I think if i have more time with the dataset, i would spend time to try more hyp
 
 ## Summary
 in this project we lean :
-how to analyse and extract data for training our model 
-the importance of type and adding features to best fitting
-use different hyperParameters for augment performance score 
+-how to analyse and extract data for training our model 
+-the importance of type and adding features to best fitting
+-use different hyperParameters for augment performance score 
 
