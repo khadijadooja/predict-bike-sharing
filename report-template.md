@@ -27,21 +27,21 @@ but the training take more time to build the model
 I think if i have more time with the dataset, i would spend time to try more hyperparameters and different models for building the right model that will perform much better whith our data
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
-	model	num_bag_folds	num_trials	max_stack_level	score
-0	initial	8	1	3	1.81114
-1	add_features	8	1	3	1.78080
-2	hpo	8	5	3	1.80389
-3	features_hpo	8	8	3	0.62597
+	model	num_bag_folds	num_trials	max_stack_level	scorey
+	initial	8	1	3	1.81114
+	add_features	8	1	3	1.78080
+	hpo 	8	5	3	1.80389
+	features_hpo	8	8	3	0.62597
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
 
-![model_train_score.png](img/model_train_score.png)
+![model_train_score.png](model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score.png](model_test_score.png)
 
 ## Summary
 in this project we lean :
